@@ -1,0 +1,10 @@
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\bin\Debug\home work 2.exe.config
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\bin\Debug\home work 2.exe
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\bin\Debug\home work 2.pdb
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home work 2.csproj.AssemblyReference.cache
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home_work_2.Form1.resources
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home_work_2.Properties.Resources.resources
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home work 2.csproj.GenerateResource.cache
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home work 2.csproj.CoreCompileInputs.cache
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home work 2.exe
+C:\Users\SPEED TIME\Desktop\proc#\home work 2\home work 2\obj\Debug\home work 2.pdb
